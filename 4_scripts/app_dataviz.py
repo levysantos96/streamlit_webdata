@@ -5,7 +5,7 @@ import plotly.express as px
 st.write('**Pesquisa Universidades**')
 st.sidebar.header('Pesquise a universidades')
 st.image('https://canaldoensino.com.br/blog/wp-content/uploads/2018/03/como-conseguir-uma-bolsa-de-estudo-integral-numa-universidade-privada_Prancheta-1.jpg')
-df = pd.read_csv('dados_tratados.csv')
+df = pd.read_csv("dados_tratados.csv")
 
 uni = df['País'].drop_duplicates()
 escolha_uni = st.sidebar.selectbox('País', uni)
