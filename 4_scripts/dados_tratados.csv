@@ -1,0 +1,101 @@
+Posição;Nome da Instituição;País;Pontos;Tipo de Instituição
+1;Universidade Harvard; Estados Unidos;100.0;Privada
+2;Universidade Stanford; Estados Unidos;76.5;Privada
+3;Universidade de Cambridge; Reino Unido;70.9;Pública
+4;Instituto de Tecnologia de Massachussetes; Estados Unidos;70.4;Privada
+5;Universidade da Califórnia - Berkeley; Estados Unidos;69.1;Pública
+6;Universidade Princeton; Estados Unidos;61.1;Privada
+7;Universidade de Oxford; Reino Unido;60.1;Pública
+8;Universidade Columbia; Estados Unidos;58.8;Privada
+9;Instituto de Tecnologia da Califórnia; Estados Unidos;57.3;Privada
+10;Universidade de Chicago; Estados Unidos;53.9;Privada
+11;Universidade Yale; Estados Unidos;52.8;Privada
+12;Universidade da Califórnia - Los Angeles; Estados Unidos;52.5;Pública
+13;Universidade de Washington; Estados Unidos;50.3;Pública
+14;Universidade Cornell; Estados Unidos;49.6;Privada
+15;Universidade da Califórnia - San Diego; Estados Unidos;49.5;Pública
+16;Colégio Universitário de Londres; Reino Unido;47.1;Pública
+17;Universidade da Pensilvânia; Estados Unidos;46.0;Privada
+18;Universidade Johns Hopkins; Estados Unidos;45.7;Privada
+19;Instituto Federal de Tecnologia de Zurique;Suíça;44.1;Pública
+20;Universidade de Washington - St. Louis; Estados Unidos;43.3;Pública
+21;Universidade da Califórnia - San Francisco; Estados Unidos;42.4;Pública
+22;Universidade do Noroeste; Estados Unidos;41.9;Privada
+23;Universidade de Toronto; Canadá;41.6;Pública
+24;Universidade de Tóquio; Japão;41.5;Pública
+24;Universidade de Michigan - Ann Arbor; Estados Unidos;41.5;Pública
+26;Universidade Duke; Estados Unidos;41.0;Privada
+27;Colégio Imperial de Londres; Reino Unido;40.9;Pública
+28;Universidade do Wisconsin-Madison; Estados Unidos;39.7;Pública
+29;Universidade de Nova Iorque; Estados Unidos;38.6;Privada
+30;Universidade de Copenhague; Dinamarca;38.5;Pública
+31;Universidade da Colúmbia Britânica; Canadá;37.7;Pública
+32;Universidade de Edimburgo; Reino Unido;37.0;Pública
+33;Universidade da Carolina do Norte - Chapel Hill; Estados Unidos;36.9;Pública
+34;Universidade de Minnesota - Twin Cities; Estados Unidos;36.8;Privada
+35;Universidade de Quioto; Japão;36.7;Pública
+36;Universidade Rockefeller; Estados Unidos;36.6;Privada
+37;Universidade de Illinois em Urbana-Champaign; Estados Unidos;36.2;Pública
+38;Universidade de Manchester; Reino Unido;36.2;Pública
+39;Universidade de Melbourne; Austrália;35.9;Pública
+40;Universidade Pierre e Marie Curie; França;35.5;Pública
+41;Universidade Paris-Sul; França;35.0;Pública
+42;Universidade de Heidelberg Ruprecht Karl; Alemanha;34.8;Pública
+43;Universidade do Colorado - Boulder; Estados Unidos;34.7;Pública
+44;Instituto Karolinska; Suécia;33.3;Pública
+45;Universidade da Califórnia - Santa Barbara; Estados Unidos;33.2;Pública
+46;Colégio do Rei de Londres; Reino Unido;33.1;Pública
+47;Universidade de Utrecht; Países Baixos;33.0;Pública
+48;Centro Médico do Sudoeste da Universidade do Texas - Dallas; Estados Unidos;32.8;Pública
+48;Universidade Tsinghua; China;32.8;Pública
+50;Universidade Técnica de Munique; Alemanha;32.7;Pública
+51;Universidade do Texas - Austin; Estados Unidos;32.5;Pública
+52;Universidade Vanderbilt; Estados Unidos;32.0;Privada
+53;Universidade de Maryland - College Park; Estados Unidos;31.8;Pública
+54;Universidade do Sul da Califórnia; Estados Unidos;31.7;Privada
+55;Universidade de Queensland; Austrália;31.6;Pública
+56;Universidade de Helsínquia; Finlândia;31.5;Pública
+57;Universidade Luís Maximiliano de Munique; Alemanha;31.4;Pública
+58;Universidade de Zurique;Suíça;31.3;Pública
+59;Universidade de Groninga; Países Baixos;31.1;Pública
+60;Universidade de Genebra;Suíça;31.0;Pública
+61;Universidade de Bristol; Reino Unido;30.1;Pública
+62;Universidade de Oslo; Noruega;29.9;Pública
+63;Universidade de Uppsala; Suécia;29.8;Pública
+64;Universidade da Califórnia - Irvine; Estados Unidos;29.4;Pública
+65;Universidade de Aarhus; Dinamarca;29.1;Pública
+66;Universidade McMaster; Canadá;29.0;Pública
+67;Universidade McGill; Canadá;28.9;Pública
+68;Universidade de Pittsburgh; Estados Unidos;28.7;Pública
+69;Escola Normal Superior de Paris; França;28.6;Pública
+69;Universidade de Gante; Países Baixos;28.6;Pública
+71;Mayo Medical School; Estados Unidos;28.5;Privada
+71;Universidade de Pequim; China;28.5;Pública
+73;Universidade Erasmo de Roterdã; Países Baixos;28.4;Privada
+74;Universidade Rice; Estados Unidos;28.2;Privada
+74;Universidade de Estocolmo; Suécia;28.2;Pública
+76;Escola Politécnica Federal de Lausana;Suíça;28.1;Pública
+77;Universidade de Purdue - West Lafayette; Estados Unidos;28.0;Privada
+78;Universidade Monash; Austrália;27.9;Privada
+79;Universidade Rutgers; Estados Unidos;27.8;Pública
+80;Universidade de Boston; Estados Unidos;27.7;Privada
+80;Universidade Carnegie Mellon; Estados Unidos;27.7;Privada
+80;Universidade Estadual de Ohio - Columbus; Estados Unidos;27.7;Pública
+83;Universidade de Sydney; Austrália;27.5;Pública
+84;Universidade de Nagoia; Japão;27.2;Pública
+85;Instituto de Tecnologia da Geórgia; Estados Unidos;27.1;Pública
+85;Universidade Estadual da Pensilvânia - University Park; Estados Unidos;27.1;Pública
+85;Universidade da Califórnia - Davis; Estados Unidos;27.1;Pública
+88;Universidade de Leida; Países Baixos;27.0;Pública
+88;Universidade da Flórida; Estados Unidos;27.0;Pública
+90;Universidade Católica de Lovaina; Bélgica;26.9;Privada
+91;Universidade da Austrália Ocidental; Austrália;26.8;Pública
+91;Universidade Nacional de Singapura;Singapura;26.8;Privada
+93;Universidade Estatal de Moscovo; Rússia;26.6;Pública
+93;Instituto de Tecnologia de Israel; Israel;26.6;Pública
+95;Universidade de Basileia;Suíça;26.3;Pública
+95;Universidade Jorge Augusto de Gotinga; Alemanha;26.3;Pública
+97;Universidade Nacional Australiana; Austrália;26.1;Pública
+98;Universidade da Califórnia - Santa Cruz; Estados Unidos;26.0;Pública
+99;Universidade de Cardife; Reino Unido;25.9;Pública
+100;Universidade do Arizona; Estados Unidos;25.9;Pública
