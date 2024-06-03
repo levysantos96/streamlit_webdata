@@ -3,7 +3,7 @@ import pandas  as pd
 import plotly.express as px
 
 st.write('**Lista das melhores universidades do mundo**')
-st.sidebar.header('Pesquise às universidades por país:')
+st.sidebar.header('Universidades por país:')
 st.image('https://canaldoensino.com.br/blog/wp-content/uploads/2018/03/como-conseguir-uma-bolsa-de-estudo-integral-numa-universidade-privada_Prancheta-1.jpg')
 df = pd.read_csv('./4_scripts/dados_tratados.csv', sep=';', encoding='utf-8')
 
