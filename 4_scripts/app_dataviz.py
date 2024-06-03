@@ -7,7 +7,7 @@ st.sidebar.header('Universidades por país:')
 st.image('https://canaldoensino.com.br/blog/wp-content/uploads/2018/03/como-conseguir-uma-bolsa-de-estudo-integral-numa-universidade-privada_Prancheta-1.jpg')
 df = pd.read_csv('./1_bases_tratadas/dados_tratados.csv', sep=';', encoding='utf-8')
 
-uni = df[' '].drop_duplicates()
+uni = df['País'].drop_duplicates()
 escolha_uni = st.sidebar.selectbox('País', uni)
 df2 = df[df['País']==escolha_uni]
 
